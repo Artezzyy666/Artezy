@@ -8,7 +8,7 @@ $ pip instal stdiomask
 
 $ pip install --upgrade pip
 
-$git clone https://github.com/Artezy
+$git clone https://github.com/Artezzyy666/Artezy
 
 $ ls
 
